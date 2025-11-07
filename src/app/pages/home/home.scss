@@ -1,0 +1,43 @@
+.home-page {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+
+  h1 {
+    color: #1976d2;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    color: #666;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+
+  .feature-box {
+    background-color: #e3f2fd;
+    border-left: 4px solid #1976d2;
+    padding: 1.5rem;
+    margin-top: 2rem;
+    border-radius: 4px;
+
+    h2 {
+      color: #1565c0;
+      margin-top: 0;
+      margin-bottom: 1rem;
+      font-size: 1.3rem;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 1.5rem;
+
+      li {
+        color: #424242;
+        margin-bottom: 0.5rem;
+        line-height: 1.6;
+      }
+    }
+  }
+}
